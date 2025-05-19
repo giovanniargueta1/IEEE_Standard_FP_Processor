@@ -19,3 +19,6 @@ connects to the 2nd FPGA (MUL) through I2C
 (with HEX format)
 
 # Final Setup Images
+
+
+![Example Image](images/fpga_setup.PNG)
