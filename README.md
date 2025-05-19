@@ -22,3 +22,8 @@ connects to the 2nd FPGA (MUL) through I2C
 
 
 ![Example Image](images/fpga_setup.PNG)
+
+![Example Image](images/demo_FPGA_pic1.PNG)
+
+
+
